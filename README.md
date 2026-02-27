@@ -1,1 +1,2 @@
 # 11_Development-of-AI-Driven-Code-Reviewer
+SYSTEM ARCHITECTURE
